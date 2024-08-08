@@ -371,12 +371,10 @@ SELECT * FROM Movie;
 ## Conclusion
 This project demonstrates the creation of a movie database using SQL, showcasing various SQL functionalities to manage and query data efficiently. The provided scripts and queries offer a comprehensive framework for building and interacting with a movie database.
 
-## Contact Information
-For any questions or further assistance, please contact:
+## Credits
 - Sameena Mujawar
 - Laylaa Tariq
 - Sai Srivatsa Thangallapelly
 
 ---
 
-Feel free to modify this README file to better suit your needs or to add any additional information specific to your project.
